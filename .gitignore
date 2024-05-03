@@ -1,0 +1,3 @@
+.terraform
+.terraform.lock.hcl
+cde-ec2-apachewebserver-keypair.pem
